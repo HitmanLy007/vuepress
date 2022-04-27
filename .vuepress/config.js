@@ -1,6 +1,6 @@
 module.exports = {
-  title: "欢迎来到HitmanLy的博客",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "HitmanLy",
+  description: 'A simple and beautiful vuepress blog.',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -20,7 +20,7 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/HitmanLy007', icon: 'reco-github' }
         ]
       }
     ],
@@ -67,13 +67,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: 'HitmanLy',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
     record: 'xxxx',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2022'
     /**
      * 密钥 (if your blog is private)
      */
