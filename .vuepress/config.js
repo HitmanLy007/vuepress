@@ -69,7 +69,7 @@ module.exports = {
     // 作者
     author: 'HitmanLy',
     // 作者头像
-    authorAvatar: '/avatar.png',
+    authorAvatar: '/hitmanly.jpeg',
     // 备案号
     record: 'xxxx',
     // 项目开始时间
