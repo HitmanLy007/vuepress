@@ -73,7 +73,7 @@ module.exports = {
     // 备案号
     record: 'xxxx',
     // 项目开始时间
-    startYear: '2022'
+    startYear: '2022',
     /**
      * 密钥 (if your blog is private)
      */
