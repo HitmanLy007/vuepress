@@ -89,8 +89,8 @@ module.exports = {
      */
 
     valineConfig: {
-      appId: 6YLOTwdf6jiX5p9lvKqtQiHe-gzGzoHsz,// your appId
-      appKey: UNMF5V3aj3gSM04EbMCTEHye, // your appKey
+      appId: '6YLOTwdf6jiX5p9lvKqtQiHe-gzGzoHsz',// your appId
+      appKey: 'UNMF5V3aj3gSM04EbMCTEHye', // your appKey
     }
   },
   markdown: {
